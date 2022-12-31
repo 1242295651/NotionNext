@@ -54,6 +54,7 @@ const BLOG = {
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: 'XiaQiang168@outlook.com',
   CONTACT_WEIBO: '',
+  CONTACT_QQ: '1242295651',
   CONTACT_TWITTER: '',
   CONTACT_GITHUB: 'https://github.com/1242295651',
   CONTACT_TELEGRAM: '18807368687',
